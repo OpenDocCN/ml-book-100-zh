@@ -14,4 +14,4 @@
 
 ## 赞助我
 
-![](https://www.apachecn.org/img/about/donate.jpg)
+![](https://www.flygon.net/img/about/donate.jpg)
